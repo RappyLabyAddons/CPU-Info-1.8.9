@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "CPU Info",
+  "mainClass": "com.rappytv.cpuinfo.CPUInfo",
+  "description": "With this plugin you can add two new modules to your screen which display your current CPU usage in percent and your amount of cores.",
+  "version": 1,
+  "author": "RappyTV#6969",
+  "category": 1,
+  "icon": "https://cdn.discordapp.com/attachments/938944740920016916/991304102699081858/icon.png"
+}
