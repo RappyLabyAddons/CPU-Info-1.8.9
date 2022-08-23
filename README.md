@@ -1,5 +1,5 @@
 # **CPU Usage Display**
-## [Click here for 1.12.2 Version](https://github.com/RappyLabyAddons/CPU-Info-1.8.9)
+## [Click here for 1.12.2 Version](https://github.com/RappyLabyAddons/CPU-Info)
 > With this plugin you can add two new modules to your screen which display your current CPU usage in percent and your amount of cores.
 
 ### Installation
